@@ -17,3 +17,12 @@ function findMaximum(num1, num2) {
         return num2;
     }
 }
+
+// isPalindrome
+function isPalindrome(word) {
+    if (word === word.isPalindrome) {
+        return true;
+    } else {
+        return false;
+    }
+}
